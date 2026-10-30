@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tamekane-utaawase",
  "yomi": "ためかねきょうけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（二十八番）",
+  "era": "未詳",
+  "author": "京極為兼家",
+  "desc": "京極為兼の家の歌合。春朝・春夕から恋夕までの題で、為兼・冷泉為相・藤大納言典侍・平経親が二十八番を番える。判者の名は記されないが、各番に判詞がある。"
+ },
  "editions": [
   {
    "pid": "1879502",
